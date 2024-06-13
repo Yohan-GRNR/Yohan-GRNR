@@ -1,6 +1,7 @@
 <a href="https://ygdata.ch/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D16AQEe2pYq9oRAow/profile-displaybackgroundimage-shrink_350_1400/0/1705076536982?e=1722470400&v=beta&t=nykDd2-IXS6MtXWr_vTbjCLpRO_6SD50gjtI7x9wyAk"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=26&fontSize=12&reversal=false&descAlignY=60&fontAlignY=24"/>
+<p align="center">Hi! As a data nerd, I love exploring and visualising data. Solving complex challenges is my hobby! Join me on <a href="https://www.linkedin.com/in/yohan-grenier/">LinkedIn</a> so we can geek out 🤓 </p>
 
-<p align="center">Hi! As a data nerd, I love exploring and visualising data. Solving complex challenges is my hobby! Join me on <a href="https://www.linkedin.com/in/yohan-grenier/">LinkedIn</a> so we can geek out 🤓</p>
 
 <p align="center">
   
@@ -17,6 +18,9 @@
     <img src="https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black" alt="Ygrek CodinGame"/>
   </a>
   
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=26&fontSize=12&reversal=false&descAlignY=60&fontAlignY=24&section=footer"/>
 </p>
 
 ---
