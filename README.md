@@ -40,12 +40,19 @@ I'm currently looking for a dynamic and confident team to work and grow together
 ---
 
 ## 🛠️ Tech stack
+<table align="center">
+<td>
+  <ul>
+    <li><b>Languages</b>: Python, SQL, DAX, VBA, HTML, CSS, Markdown</li>
+    <li><b>Framework</b>: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipy</li>
+    <li><b>Database</b>: MySQL, PostgreSQL, SQLite</li>
+    <li><b>Tools</b>: Excel, Power BI, Tableau, Photoshop, Powerpoint</li>
+    <li><b>Others</b>: Git, Jupyter Notebooks, Visual Studio Code, KNIME, SAP</li>
+  </ul>
+</td>
+<td><img src="techstack.gif" width="300px"/></td>
+</table>
 
-- **Languages**: Python, SQL, DAX, VBA, HTML, CSS, Markdown
-- **Framework**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipym
-- **Database**: MySQL, PostgreSQL, SQLite
-- **Tools**: Excel, Power BI, Tableau, Photoshop, Powerpoint
-- **Others**: Git, Jupyter Notebooks, Visual Studio Code, KNIME, SAP
 
 ---
 
