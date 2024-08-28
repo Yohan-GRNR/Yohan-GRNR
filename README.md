@@ -59,6 +59,8 @@ I'm currently looking for a dynamic and confident team to work and grow together
 ## 👨‍💻 Latest projects
 
 <table>
+<tr><td><a href="https://jobjob.streamlit.app/"><img width="140px" src="https://ygdata.ch/portfolio-details-pages/media/JobJob.png"></a></td>
+<td><a href="https://jobjob.streamlit.app/">JobJob - An agglomerated jobboards app with "jobs you don't want" filter !</a> - in progress<br/></td></tr>
 <tr><td><a href="https://github.com/Yohan-GRNR/JO-explorer"><img width="140px" src="https://presse.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif"></a></td>
 <td><a href="https://github.com/Yohan-GRNR/JO-explorer">Extract (scrap) Transform Load Olympics open data</a> - in progress<br/></td></tr>
 <tr><td><a href="https://ygdata.ch/portfolio-details-pages/details-portfolio-1.html"><img width="140px" src="https://ygdata.ch/assets/img/portfolio/portfolio-1.jpg"></a></td>
