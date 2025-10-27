@@ -1,4 +1,3 @@
-<a href="https://ygdata.ch/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D16AQEe2pYq9oRAow/profile-displaybackgroundimage-shrink_350_1400/0/1705076536982?e=1722470400&v=beta&t=nykDd2-IXS6MtXWr_vTbjCLpRO_6SD50gjtI7x9wyAk"/></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=26&fontSize=12&reversal=false&descAlignY=60&fontAlignY=24"/>
 <p align="center">Hi! As a data nerd, I love exploring and visualising data. Solving complex challenges is my hobby!</br>Join me on <a href="https://www.linkedin.com/in/yohan-grenier/">LinkedIn</a> so we can geek out 🤓 </p>
 
@@ -35,7 +34,7 @@ I'm an explorer in the tech and machine learning realms 💻 , and you'll often 
 
 ## 🧐 Current Focus
 
-I'm currently looking for a dynamic and confident team to work and grow together through innovation.  
+I am currently working on workflow automation and the seamless integration of AI using mainly the Google Cloud Platform (GCP).  
 
 ---
 
@@ -44,31 +43,13 @@ I'm currently looking for a dynamic and confident team to work and grow together
 <td>
   <ul>
     <li><b>Languages</b>: Python, SQL, DAX, VBA, HTML, CSS, Markdown</li>
-    <li><b>Framework</b>: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipy</li>
-    <li><b>Database</b>: MySQL, PostgreSQL, SQLite</li>
-    <li><b>Tools</b>: Excel, Power BI, Tableau, Photoshop, Powerpoint</li>
+    <li><b>Framework</b>: CrewAI, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipy</li>
+    <li><b>Database</b>: Bigquery, MySQL, PostgreSQL, SQLite</li>
+    <li><b>Tools</b>: Looker, Excel, Power BI, Tableau, Powerpoint</li>
     <li><b>Others</b>: Git, Jupyter Notebooks, Visual Studio Code, KNIME, SAP</li>
   </ul>
 </td>
 <td><img src="techstack.gif" width="300px"/></td>
-</table>
-
-
----
-
-## 👨‍💻 Latest projects
-
-<table>
-<tr><td><a href="https://jobjob.streamlit.app/"><img width="140px" src="https://ygdata.ch/portfolio-details-pages/media/JobJob.png"></a></td>
-<td><a href="https://jobjob.streamlit.app/">JobJob - An agglomerated jobboards app with "jobs you don't want" filter !</a> - in progress<br/></td></tr>
-<tr><td><a href="https://github.com/Yohan-GRNR/JO-explorer"><img width="140px" src="https://presse.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif"></a></td>
-<td><a href="https://github.com/Yohan-GRNR/JO-explorer">Extract (scrap) Transform Load Olympics open data</a> - in progress<br/></td></tr>
-<tr><td><a href="https://ygdata.ch/portfolio-details-pages/details-portfolio-1.html"><img width="140px" src="https://ygdata.ch/assets/img/portfolio/portfolio-1.jpg"></a></td>
-<td><a href="https://ygdata.ch/portfolio-details-pages/details-portfolio-1.html">Build an algorithm for counterfeit banknotes detection</a><br/></td></tr>
-<tr><td><a href="https://ygdata.ch/portfolio-details-pages/details-portfolio-2.html"><img width="140px" src="https://ygdata.ch/assets/img/portfolio/portfolio-2.jpg"></a></td>
-<td><a href="https://ygdata.ch/portfolio-details-pages/details-portfolio-2.html">Market research to determine potential export countries</a><br/></td></tr>
-<tr><td><a href="https://ygdata.ch/portfolio-details-pages/details-portfolio-3.html"><img width="140px" src="https://ygdata.ch/assets/img/portfolio/portfolio-3.jpg"></a></td>
-<td><a href="https://ygdata.ch/portfolio-details-pages/details-portfolio-3.html">ETL & Dashboards creation on Power Bi to monitor motorcyclists safety in Switzerland</a><br/></td></tr>
 </table>
 
 ---  
