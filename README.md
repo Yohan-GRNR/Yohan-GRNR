@@ -1,40 +1,40 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=26&fontSize=12&reversal=false&descAlignY=60&fontAlignY=24"/>
-<p align="center">Hi! As a data nerd, I love exploring and visualising data. Solving complex challenges is my hobby!</br>Join me on <a href="https://www.linkedin.com/in/yohan-grenier/">LinkedIn</a> so we can geek out 🤓 </p>
+<p align="center"><b>Data & AI Engineer</b> · Geneva area 🇨🇭🇫🇷</br>I build data pipelines, scrapers and AI agents that turn raw data into something people (and LLMs) can actually use.</p>
 
 
 <p align="center">
-  
-  <a href="https://www.linkedin.com/in/yohan-grenier/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Yohan Grenier's LinkedIn"/>
-  </a>
-  <a href="https://ygdata.ch/">
-    <img src="https://img.shields.io/badge/Portfolio-BAFCD0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAGYktHRAD/AP8A/6C9p5MAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfoBR4QBhL3IOktAAAH2klEQVRIx3VUe2yV5Rn/ve/3nfu15/Ryem9pgdYWpONOAaETwwC1RnBDnVNxYzjnhGlQEiIh2VTMlimRidWyQWZgCXYzA12GUoq4xWqraK9Q6P20PW1Pz+X7zvnOd3n2R622cXuSJ3mf5M3ze3/P73l/wNeRTCqIx2VORE4ishORmYhEImJZxfeAiCBJCgBASakgIhCRQES2WWkhIvFCYzsMw5hpDTZzCI6MQxSF/BMn3321o/Om2+PxJpwuX9JhNykrls6vf+PkRx+sWn4L+gcnUVmei10/XodTpz/e99kXfVsB6JxzAKQvrypu+dG9Kw6rmq6YTSIAQJwBMZtF+NI8oZHRCXax6WqNzVUAzoMwmQQ0/Wd4gW6wp57as+nKg7vfxK7H63HsrYt3/OtS+97LV7rzwBiICOl+JxaUZDUzxhRV1b5hwmcOqZSGuvqGZM1tS+vKbqmSNVVHONSO0EgnbtzoWTYWijSs3vTbZ7weW8bKFSXPftra+3Zn90ieMT02EBEqynJvbr590amv2gdnD+lbJoEsP3LzS6Drxr/jstiVUsJV8fjU9GVKoHrVwkjLl1O7Gj/q2pnmsWcZhuEMjcfAvmbh8zqQm+3tv9DYPqgoGipvyfsuCGMMDz/+FlTVMKYiMoF0AAyMMcRiEqYmB1lWRiDU3TO2dnlV0Y3BobCh6wY4n35xybxMtHUO2z5t7TUVF6YnMCv47MLltMLtsmqiKCSLinIhChxEBM452rvDJRNhKXtxRd4zNqvZ1T80aeN8mkWa12FkZbhDfQMTyYXzA7rdbsF3QC5d6ULF6oMQBI5jv3swToShwsLicH5BvuZ0pcOXXgQdftisZq2kOKMgOBoxJZPqN00qynJGJqekVsOg4aNHHpCICBWrD+LSlS4AgLBn3ykMBcPo7A5iYWnA/vLR99fG48nakTGpwGTxckH0cuIuMErC67Fyv89b2Xq135dK6QAIXo8dBfl+sbnlZg4XWHLx0jt7A1nesWs9o6ogcFRWbQNPJFN4+pebeVame/OFSx3vjI5F32CMCaqqT1avLH7H7zNpjGToSj/uu6v8o0RSnYrGEmBfL8+8ogxcvzFmSyqqjTPGR8aixz9s6jgbyHT/YPfDG3giqYKvXDbPtOW+P+wLjcdeFwXek5vt3b5kUf5O0SSM9vRGU1KCKXJsCIFMnwrBm/9l20ARABABHrcNbpcNg8Nh2Kzma0tvLdyZl+3dLgq8JzQe++POx47/euXSYhM/ffaT2ng8uSfN6zjQfPHgEwbhi5OvP3bTahEvdV0f3ZmeZlVsFp0c7izTJy0DVeMTcZExBgKhbEH2SDKZ+ljXDdjt5vfrX3u0zyB80Xzx4BNpXseBeDz58zMNzbVckpWNoihcbzq//8xzh89SZXkOqtYfgtNhuQwgtWB+3rFtW9b1LKosS93sC0HTjWkWLhtWLy85E4srr5nNouJ0WK9UrT+EyvIcHDh8lprO7z8jisI1SVZquMNuadI0vXTDtiO1Lz6/HR3dI2htOgRJSq1iDLbmlv78X+zecTA93ffVcDCMmbXNyfbGli4pfHcoGK4BkSUuKWtamw6hs3sELzy/HRu2HanVNH2+3W65LOx5fF93T2/IHokmniuYv6nQ6bAMrK/5oblvYOKAL83xz2gsuSouax3tXcE7+gYm3dM/HMgJeKfCEbmnszt4t9/vapBlZe3WO39yXkooeZ7M6udiscRTDoelfsumxXVCoHCD/uTu2z9uvdrXI8nK3ZFIYndwNLJZVfXizAzPsZSqe1Ip7SFZTvm/0YOAzEw3D43HblUUrdmX5jg/OSXvGBuP1kQiiV1E5PClOQ49u3dLfePlTk1YUX0vhoNT1NzS21WzrqxBTqTaJEmpUTUjR06klikprdRqMWUDJE5MSpgBSfc5TYlEyhOJyGnxuFKtaXoaYyySmeHeX7W44Mhnn/ddtVpNpOsG+JuvPoxNGysgSQoIiH347jPviwLv87hsp4oK02vdTuvPKstzXmScK7OtQhBYsqIs5zcul/WnRYXp97jdthOiKAx+8Pen3+OMRW9+NYD1axbgraOPTNvK5u9XItj1e1gtJuw9cNquG0YO56ytr3+iY83K0vMP7az+KwOScwyJsfiv9mz6y5oVpe8NDE52cM7adN0I7N570kUAoL+N2q3f+65BygkFkWhCJIKZMSalVA21W6sgSYqA/xHRaEJ4YMcqKIoGBpYkIqskKSZZnkN6LojHZUMgy6MyxhIGUbquG7h4uRNWi0hExAyDMJNkELNYRDScawFAIFAa40zy+ZyKx22bAyLOLm6tzMf9O1Yllm083KIo6tbK8tx/XGhs9w4Oh/dkZLhsBZKicc7IMIil+52uI6+8t/9G7/gbC0oDod7+8bvMJvHzoy/dLx0/0fj/QSanJNy29SU4HZa6weFw3bWe0XMAcK1ntHPXg+sedTgtU2QQGGOQZMVV9+em7ZGoXB+JylwQ+Ghmhut49eYXEJqIzZVvdqEbBgTO4Z/3JDauKwuExmPlFrMYnlec2bVsSWFCEL6dbkrV0X19xNLWMVSaVDR/ht95reFca1Abr4Om6RDFb2Wco4nAOY7/6RImbrwKXTdGVFW/aBB9zjlLvHL8Agrz/XjkgbVYsqgAfzvXAlXVFSK0qZrepOlGUBuvw+snGucAAMB/Adt68ZqrvZs7AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI0LTA1LTMwVDE2OjA2OjA5KzAwOjAwmEEo8wAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNC0wNS0zMFQxNjowNjowOSswMDowMOkckE8AAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjQtMDUtMzBUMTY6MDY6MTgrMDA6MDDU1Lq6AAAAAElFTkSuQmCC&logo,Color=white" alt="portfolio">
-  </a>
   <a href="https://www.hackerrank.com/profile/y_grenier">
     <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Yohan Grenier's HackerRank"/>
   </a>
   <a href="https://www.codingame.com/profile/d903da421f566a498b7cef020e1e0dec1306805">
     <img src="https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black" alt="Ygrek CodinGame"/>
   </a>
-  
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=26&fontSize=12&reversal=false&descAlignY=60&fontAlignY=24&section=footer"/>
 </p>
 
+> [!NOTE]
+> **Since 2024, most of my work lives on GitLab** (private repositories at work), so this profile shows only a small part of what I build day to day.
+
 ---
 
 ## 🌱 About Me
 
-My name is Yohan and I have embarked on an exalting journey of career change to follow my true passion. After leaving my job that shaped me (9 years), I completed a professional Master's degree in Data Analyst and a Google Career Certificate.
+I'm Yohan, a Data & AI Engineer at **DLG / Luxtech** (Geneva), where I design the data and AI infrastructure behind market intelligence for the luxury industry.
 
-I'm an explorer in the tech and machine learning realms 💻 , and you'll often find me bouldering, freediving, hiking, or embarking on adventures 🏍️.
+I came to data after 9 years in retail, then an ENSAE Paris Master's and a Google Data Analytics certificate. That field experience still shapes how I work: I start from the business question, ship a working POC fast, then make it production-ready.
+
+Off screen, you'll find me bouldering, freediving, hiking or on my motorbike 🏍️.
 
 ---
 
-## 🧐 Current Focus
+## 🧐 What I'm working on
 
-I am currently working on workflow automation and the seamless integration of AI using mainly the Google Cloud Platform (GCP).  
+- 🕸️ **Large-scale scraping**: a fleet of 200+ scrapers orchestrated on Cloud Run
+- 🏗️ **Data architecture**: Medallion layers (Bronze / Silver / Gold) on BigQuery, with semantic layers for analysts and AI agents
+- 🤖 **Agentic AI**: designing and building secure MCP servers and multi-agent systems (Google ADK, CrewAI, Claude Agent SDK) for classification, OCR and auto-scraping
+- ✅ **Data quality**: automated checks mixing deterministic rules and ML/LLM
 
 ---
 
@@ -42,30 +42,15 @@ I am currently working on workflow automation and the seamless integration of AI
 <table align="center">
 <td>
   <ul>
-    <li><b>Languages</b>: Python, SQL, DAX, VBA, HTML, CSS, Markdown</li>
-    <li><b>Framework</b>: CrewAI, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipy</li>
-    <li><b>Database</b>: Bigquery, MySQL, PostgreSQL, SQLite</li>
-    <li><b>Tools</b>: Looker, Excel, Power BI, Tableau, Powerpoint</li>
-    <li><b>Others</b>: Git, Jupyter Notebooks, Visual Studio Code, KNIME, SAP</li>
+    <li><b>Languages</b>: Python, SQL, Bash</li>
+    <li><b>Data & Cloud (GCP)</b>: BigQuery, Cloud Run, Cloud Functions, Pub/Sub, Eventarc, GCS, dbt, Dataform, ClickHouse, Kafka</li>
+    <li><b>AI & Agents</b>: MCP / FastMCP, A2A, Google ADK, CrewAI, Claude Agent SDK, Vertex AI, RAG</li>
+    <li><b>Scraping</b>: Playwright, BeautifulSoup, proxies, TLS fingerprinting</li>
+    <li><b>DevOps</b>: Docker, GitLab CI (self-hosted runners, Kaniko), Git</li>
+    <li><b>BI & Viz</b>: Looker, Power BI, Streamlit, Plotly</li>
   </ul>
 </td>
 <td><img src="techstack.gif" width="300px"/></td>
-</table>
-
----  
-
-### 📫 Contact
-
-- **Email**: [y.grenier@protonmail.com](mailto:y.grenier@protonmail.com)
-- **LinkedIn**: [Yohan Grenier](https://www.linkedin.com/in/yohan-grenier/)
-
---- 
-
-<table align="center">
-<tr>
-  <td><a href="https://ygdata.ch/">All my social links and infos in one place...</a><br/></td>
-  <td><a href="https://ygdata.ch/"><img width="40px" src="https://ygdata.ch/assets/img/favicon.png"></a></td>
-</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Enjoy"/>
